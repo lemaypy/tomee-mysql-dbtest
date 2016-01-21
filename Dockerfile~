@@ -1,0 +1,3 @@
+FROM lemaypy/tomee
+COPY dbtest /usr/local/tomee/webapps/dbtest
+
